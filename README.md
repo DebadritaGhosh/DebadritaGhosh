@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
+<img src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp?cid=ecf05e47e9bo2r1ayzhclwp7otz3w0tyumdc56lye7d259hp&rid=200w.webp&ct=g" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Debadrita</h1>
 <h3 align="center">I'm a passionate Front End Developer from India.</h3>
