@@ -4,12 +4,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Debadrita</h1>
 <h3 align="center">I'm a passionate Front End Developer from India.</h3>
   <hr/>
-<div align="left">
+<div align="left">   
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m working as a Software Developer-Trainee at **[Han River Technology Pvt. Ltd.](https://www.hanriver.co/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/DebadritaGhosh/DataStructures-And-Algorithms)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
