@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Debadrita Ghosh</h1>
-<h3 align="center">A passionate frontend developer trying to learn Data structure & Algorithms.</h3>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debadritaghosh&label=Profile%20views&color=0e75b6&style=flat" alt="debadritaghosh" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h3 align="center">I'm a passionate Front End Developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debadritaghosh" alt="debadritaghosh" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures and algorithms**
+## 🙋‍♂️ About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/DebadritaGhosh?tab=repositories](https://github.com/DebadritaGhosh?tab=repositories)
+- 🔭 I’m currently working on **[Youtube Clone](https://github.com/DebadritaGhosh/Youtube-Clone)**
 
-- 💬 Ask me about **React & React Native**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/DebadritaGhosh?tab=repositories)**
 
 - 📫 How to reach me **debadrita.ghosh2010@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
