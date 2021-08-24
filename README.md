@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Debadrita</h1>
 <h3 align="center">I'm a passionate Front End Developer from India.</h3>
 
-<div align="center">
+<div align="left">
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Youtube Clone](https://github.com/DebadritaGhosh/Youtube-Clone)**
