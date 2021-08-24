@@ -7,7 +7,7 @@
 <div align="left">
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Youtube Clone](https://github.com/DebadritaGhosh/Youtube-Clone)**
+- 🔭 I’m working as a Software Developer-Trainee at **[Han River Technology Pvt. Ltd.](https://www.hanriver.co/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
