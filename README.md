@@ -1,7 +1,7 @@
 <div background align="center">
 <img align="center" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b761194e0e227520f0b13453b5dd38f026741b89a35f6&rid=giphy.gif&ct=g" />
 </div>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Debadrita</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Debadrita</h1>
 <h3 align="center">💻 👨‍💻 I'm a passionate Front End Developer from India. 👨‍💻 💻</h3>
   <hr/>
 <div align="left">   
