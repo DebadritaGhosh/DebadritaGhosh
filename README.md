@@ -7,7 +7,7 @@
 <div align="left">   
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m working as a Software Developer-Trainee at **[Han River Technology Pvt. Ltd.](https://www.hanriver.co/)**
+- 🔭 I’m working as a Software Developer-Trainee at **[BFC Technologies Inc.](https://www.bfctech.io/)**
 
 - 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/DebadritaGhosh/DataStructures-And-Algorithms)**
 
