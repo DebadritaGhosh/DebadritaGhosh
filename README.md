@@ -7,7 +7,7 @@
 <div align="left">   
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m working as a Application Engineer-Trainee at **[BFC Technologies Inc.](https://www.bfctech.io/)**
+- 🔭 I’m working as an Application Engineer-Trainee at **[BFC Technologies Inc.](https://www.bfctech.io/)**
 
 - 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/DebadritaGhosh/DataStructures-And-Algorithms)**
 
