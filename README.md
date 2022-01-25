@@ -5,7 +5,7 @@
 <h3 align="center"> 💻 👨‍💻 Aspiring FullStack Developer 👨‍💻 💻</h3>
   <hr/>
 <div align="left">   
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
 - 🔭 I’m working as an Application Engineer-Trainee at **[BFC Technologies Inc.](https://www.bfctech.io/)**
 
