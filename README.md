@@ -15,6 +15,7 @@
 
    </br>
   <div align="center">
+      <br>
   <img height='500' src='assets/buildsynk.png' border='0' alt='www.buildsynk.com'/>
       </br>
  </div>
