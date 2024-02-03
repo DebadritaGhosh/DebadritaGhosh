@@ -16,8 +16,9 @@
    </br>
   <div align="center">
   <img height='500' src='assets/buildsynk.png' border='0' alt='www.buildsynk.com'/>
+      </br>
  </div>
-</br>
+
   </div>
 <div align="center"> 
   <a href="mailto:debadrita.ghosh2010@gmail.com">
