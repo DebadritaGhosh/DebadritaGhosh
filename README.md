@@ -10,7 +10,7 @@
 
 <div align="center">
  
- <h2> 🔭 I’m currently working on a very simple side project <b>Buildsynk - Construction Management Application</b> </h2>
+ <h2> 🔭 I’m currently working on a very simple side project <b>Buildsynk - Construction Management Application 🏗️ </b> </h2>
  I'm using MER(React Native)N stack to build the application
 
    </br>
