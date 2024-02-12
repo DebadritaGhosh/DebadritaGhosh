@@ -10,15 +10,28 @@
 
 <div align="center">
  
- <h2> 🔭 I’m currently working on a very simple side project <b>Buildsynk - Construction Management Application 🏗️ </b> </h2>
+ <!-- <h2> 🔭 I’m currently working on a very simple side project <b>Buildsynk - Construction Management Application 🏗️ </b> </h2>
  I'm using MER(React Native)N stack to build the application
+
+   </br> -->
+   <hr>
+  <div align="center">
+      <br>
+  <img height='500' src='assets/buildsynk.png' border='0' alt='www.debadrita.online'/>
+      <br>
+ </div>
+
+
+  <h2> 🌟 Right now, I'm working on a cool little project called Buildsynk - it's a Construction Management App 🏗️. I'm using the MER(React Native)N stack to make it happen. <h2>
 
    </br>
   <div align="center">
       <br>
-  <img height='500' src='assets/buildsynk.png' border='0' alt='www.buildsynk.com'/>
+  <img height='500' src='assets/brainsynk.png' border='0' alt='www.debadrita.online'/>
       <br>
+      <h4> 🌟 About a year ago, I made a simple quiz app called Brainsynk. It's for students 🔨 . I did the look of the app using React Native, and my friend did the back part using Codeigniter (Php). Now, we're thinking of putting the back part somewhere online and putting the app on the Play Store. This way, employers can see it and decide if they want to hire me. But before we do that, we want to make the app look nicer. Let's see what we can do!</h4>
  </div>
+
 
   </div>
 <div align="center"> 
