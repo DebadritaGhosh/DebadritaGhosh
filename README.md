@@ -8,6 +8,33 @@
 
 <br/>
 
+
+<div align="center">
+    <h2>Welcome to Brainsynk!</h2>
+    <img height='500' src='assets/brainsynk.png' border='0' alt='www.debadrita.online'/>
+    <br>
+    <br>
+    <p>Introducing Brainsynk, your go-to quiz app crafted with love using React Native and CodeIgniter. Dive into a world of quizzes, tests, and challenges, all at your fingertips.</p>
+    <p>With Brainsynk, the thrill of quizzes awaits. Take tests, practice your skills, and climb the ranks on our dynamic leader board. We've even made it effortless to switch between English and Bangla languages, ensuring accessibility for all.</p>
+    <p>Every pixel of Brainsynk's interface is meticulously designed using Figma, ensuring a visually stunning and intuitive experience. Behind the scenes, my friend and I have combined forces to tackle the technical intricacies, striving for excellence at every step.</p>
+    <p>If you encounter any pesky bugs along the way, don't hesitate to reach out.</p>
+    <h3>📲 Get Started</h3>
+    <p>Ready to embark on your quest for knowledge? Download Brainsynk now and unlock a world of learning at your fingertips!</p>
+    <p align="center">
+        <a href="https://drive.google.com/drive/folders/1GHacW6BwIzy33iu4gltpqvaAVm0Jivat?usp=sharing">🚀 Download Brainsynk</a> | 
+        <a href="https://www.debadrita.online">🌐 Visit Project Website</a>
+    </p>
+    <h3>🛠️ Tech Stack</h3>
+    <ul>
+        <li>Frontend: React Native</li>
+        <li>Backend: Codeigniter (PHP)</li>
+    </ul>
+    <h3>🔍 Seeking New Horizons</h3>
+<p><b>With over 2 years of hands-on experience in React and React Native, I'm committed to delivering top-notch solutions and am always eager to explore new opportunities. Let's connect and create something remarkable together!</b></p>
+</div>
+
+<br/>
+
 <div align="center">
     <hr>
     <br>
@@ -16,22 +43,7 @@
 </div>
 
 <h4 align="center">🌟 Currently, I'm working on a neat project called Buildsynk - it's an app for managing construction 🏗️. I'm using the MER(Native)N stack to build it. Right now, I'm handling both the front and back parts of the project.</h4>
-
 <br/>
-
-<div align="center">
-    <br>
-    <img height='500' src='assets/examDojo.png' border='0' alt='www.debadrita.online'/>
-    <br>
-    <h4>🌟 Around two years ago, I created a basic quiz app called ExamDojo before developing the BrainSynk app. It's a simple app designed for college students, especially those studying BCA, MCA, BTECH & MTECH. I worked on the app's appearance using React Native and Expo, while a friend handled the backend using Codeigniter (Php). This isn't a commercial release; it's just a practice project. Please use it for practice purposes only. The app is very straightforward, mostly using white and black colors. By the way, I'm currently seeking new opportunities. Let me know if there's a job opening or if you can provide a referral.</h4>
-</div>
-
-<div align="center">
-    <br>
-    <img height='500' src='assets/brainsynk.png' border='0' alt='www.debadrita.online'/>
-    <br>
-    <h4>🌟 About a year ago, I created a simple quiz app called Brainsynk, which came after the ExamDojo app. It's for students and is quite similar to ExamDojo, but they have some different features and purposes. You'll see the differences when you use them. Like before, I worked on the app's appearance using React Native, while my friend handled the backend using Codeigniter (Php). Now, we're thinking of putting the backend online and uploading the app to the Play Store. This way, potential employers can check it out and decide if they want to hire me. But before we do that, we want to make the app look better. Let's see what improvements we can make. Also, just a reminder, I'm currently looking for new opportunities. Please let me know if you know of any job openings or if you can provide a referral!</h4>
-</div>
 
 </div>
 
